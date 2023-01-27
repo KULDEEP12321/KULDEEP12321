@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KULDEEP12321
-- 👀 I’m interested in ...updating and upgrtading self
+- 👀 I’m interested in ...updating and upgrading self
 - 🌱 I’m currently learning ...c++ and java
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...insta-fallen_375
